@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/food-reactJS/static/css/main.4e17a23d.css",
+    "main.js": "/food-reactJS/static/js/main.9fa5b3d8.js",
+    "static/js/787.72439e53.chunk.js": "/food-reactJS/static/js/787.72439e53.chunk.js",
+    "static/media/food4.jpg": "/food-reactJS/static/media/food4.02777c6693e610dd8c93.jpg",
+    "static/media/pizza3.jpg": "/food-reactJS/static/media/pizza3.2a9bd0f581b685e279d7.jpg",
+    "static/media/sandwich1.jpg": "/food-reactJS/static/media/sandwich1.eb98af11e974b442ee2e.jpg",
+    "static/media/food5.jpg": "/food-reactJS/static/media/food5.77af27683eb8f6ae65dd.jpg",
+    "static/media/burger1.jpg": "/food-reactJS/static/media/burger1.610272dc02ce9a9c0a55.jpg",
+    "static/media/food10.jpg": "/food-reactJS/static/media/food10.a5f2150d8da29a26b7fe.jpg",
+    "static/media/food3.jpg": "/food-reactJS/static/media/food3.da811e480201655b5e17.jpg",
+    "static/media/food11.jpg": "/food-reactJS/static/media/food11.9595cf6d38f33f18d499.jpg",
+    "static/media/homebackground.jpg": "/food-reactJS/static/media/homebackground.452026564004d63c1296.jpg",
+    "static/media/food.jpg": "/food-reactJS/static/media/food.ad2306dbafe169c5c48a.jpg",
+    "index.html": "/food-reactJS/index.html",
+    "main.4e17a23d.css.map": "/food-reactJS/static/css/main.4e17a23d.css.map",
+    "main.9fa5b3d8.js.map": "/food-reactJS/static/js/main.9fa5b3d8.js.map",
+    "787.72439e53.chunk.js.map": "/food-reactJS/static/js/787.72439e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e17a23d.css",
+    "static/js/main.9fa5b3d8.js"
+  ]
+}
